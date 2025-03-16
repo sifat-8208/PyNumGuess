@@ -2,6 +2,9 @@
 
 Welcome to the Enhanced Number Guessing Game! This interactive game challenges players to guess a randomly generated number within a specified range. The game offers multiple difficulty levels, tracks scores, and provides feedback on guesses.
 
+# Game Screenshoot
+![Game Screenshot](image.png)
+
 ## Features
 
 - **Multiple Difficulty Levels**: Choose from easy, medium, or hard difficulty, each with different number ranges and attempts.
